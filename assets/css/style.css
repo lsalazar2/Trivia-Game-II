@@ -1,0 +1,24 @@
+.button, #answer {
+    width:150px; 
+    height:75px; 
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    background: royalblue;
+    margin: 0 auto;
+}
+
+.h1 {color: blue;
+font-size: 18px;
+}
+
+body {
+    width: 100%;
+    background-image: url("../images/questions.jpg");
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 0;
+    line-height: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvietica, sans-serif;
+    color: #0c0c0c;
+ }
